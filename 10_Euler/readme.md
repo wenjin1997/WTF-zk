@@ -12,7 +12,7 @@ tags:
 
 ## 1. 离散对数问题
 
-离散数学问题（Discrete Logarithm Problem）是数学和密码学中的一个经典难题，其实就是说模运算求对数非常难。
+离散对数问题（Discrete Logarithm Problem）是数学和密码学中的一个经典难题，其实就是说模运算求对数非常难。
 
 给定素数 $p$，以及整数 $g, h \in \mathbb{Z}_n^*$，要求找到整数 $x$，使得:
 
