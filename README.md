@@ -1,5 +1,7 @@
 # WTF zk
 
+[English Version](https://github.com/WTFAcademy/WTF-zk/blob/main/Languages/en/README.md)
+
 零知识证明（zero-knowledge proof）入门教程，目的是让仅有高中数学基础的人也能入门zk。我们会使用python复现一些算法，所以你也需要学python。
 
 > 我们最近在学习zero-knowledge proof，巩固一下细节，也写一个“WTF zk极简入门”，供小白们使用（编程大佬可以另找教程），每周更新1-3讲。
@@ -92,6 +94,36 @@
 
 **第34讲 双线性配对基础**：[教程](./34_Pairing/readme.md) 
 
+**第35讲 挠群和除子**：[Code](./35_TorsionGroup/TorsionGroup.sage) | [教程](./35_TorsionGroup/readme.md) 
+
+**第36讲 Weil 配对**：[教程](./36_WeilPairing/readme.md) 
+
+**第37讲 Miller 算法**：[Code](./37_MillerAlgo/WeilPairing.sage) | [教程](./37_MillerAlgo/readme.md) 
+
+**第38讲 Tate 配对**：[Code](./38_TatePairing/Ate.ipynb) | [教程](./38_TatePairing/readme.md) 
+
+**第39讲 扩域上的 Weil 配对**：[教程](./39_PairingExtension/readme.md) 
+
+**第40讲 常用椭圆曲线**：[Code](./40_PopularCurves/40_PopularCurves.ipynb) | [教程](./40_PopularCurves/readme.md) 
+
+**里程碑06 哈希函数 Hash** [Code](./MS06_Hash/Hash.ipynb) | [教程](./MS06_Hash/readme.md)
+
+**里程碑07 身份基加密 IBE** [Code](./MS07_IBE/IBE.ipynb) | [教程](./MS07_IBE/readme.md)
+
+## WTF zk贡献者
+<div align="center">
+  <h4 align="center">
+    贡献者是WTF学院的基石
+  </h4>
+  <a href="https://github.com/WTFAcademy/WTF-zk/graphs/contributors">
+    <img src="https://contrib.rocks/image?repo=WTFAcademy/WTF-zk" />
+  </a>
+</div>
+
+## WTF zk赞助商
+
+![](./img/full_logo_zksync-black.png)
+
 ## Reference
 
 1. [Moonmath Manual by LeastAuthority](https://github.com/LeastAuthority/moonmath-manual)
@@ -105,3 +137,5 @@
 5. [密码学的数学基础](https://space.bilibili.com/552018206/channel/collectiondetail?sid=436262)
 
 6. [Cryptography 101 for Blockchain Developers by OpenZeppelin](https://www.youtube.com/watch?v=9TFEBuANioo)
+
+7. Vitalik's blogs: [Weil Pairing](https://medium.com/@VitalikButerin/exploring-elliptic-curve-pairings-c73c1864e627)
